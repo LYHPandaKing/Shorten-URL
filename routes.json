@@ -1,4 +1,13 @@
 {
+    "dict": "http://dict.revised.moe.edu.tw/cbdic/search.htm",
+    "steam": "https://store.steampowered.com/account/registerkey?key",
+    "free": "https://steamdb.info/upcoming/free/",
+    "screenshot": "http://join-screenshots.zhanghai.me/",
+    "roadsignmap": "https://designagehk.org/hk-road-sign-map/",
     "bookmark": "https://gist.github.com/LYHPandaKing/244f3f4c9e592cfb61515616429794bd#file-bookmark-md",
-    "PoyChang": "https://poychang.github.io"
+    "acg": "https://acgsecrets.hk/bangumi",
+    "keybr": "https://www.keybr.com/login/CyaaPBJPiZ",
+    "helen": "https://pz.hkt172.net/canrungenerator/",
+    "bw": "https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/",
+    "library": "https://gist.github.com/LYHPandaKing/eb4a26f15614f37e995af64c67ebf16e"
 }
