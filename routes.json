@@ -21,5 +21,6 @@
     "moodle": "https://scemoodle.hkbu.edu.hk/login/index.php",
     "bunj": "https://iss.hkbu.edu.hk/amsappl_nj/signin.jsf",
     "citynj": "https://banweb.cityu.edu.hk/pls/PROD/hwskalog_cityu.P_DispLoginNon",
-    "cunj": "https://nweb.adm.cuhk.edu.hk/adm_online2/public/account/SAC00001.aspx"
+    "cunj": "https://nweb.adm.cuhk.edu.hk/adm_online2/public/account/SAC00001.aspx",
+    "eyny": "https://he8072.notion.site/7a718ae06c5a4749b41c78ee19278ce8"
 }
