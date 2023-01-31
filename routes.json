@@ -3,7 +3,6 @@
     "steam": "https://store.steampowered.com/account/registerkey?key",
     "free": "https://steamdb.info/upcoming/free/",
     "screenshot": "http://join-screenshots.zhanghai.me/",
-    "roadsignmap": "https://designagehk.org/hk-road-sign-map/",
     "acg": "https://acgsecrets.hk/bangumi",
     "keybr": "https://www.keybr.com/login/CyaaPBJPiZ",
     "helen": "https://pz.hkt172.net/canrungenerator/",
@@ -17,5 +16,6 @@
     "cu": "https://cusis.cuhk.edu.hk/",
     "eyny": "https://he8072.notion.site/7a718ae06c5a4749b41c78ee19278ce8",
     "bgm": "https://www.youtube.com/c/RelaxingMusicPro/videos",
-    "feed": "https://steamcommunity.com/id/LYHPandaKing/home"
+    "feed": "https://steamcommunity.com/id/LYHPandaKing/home",
+    "date": "https://sinocal.sinica.edu.tw/"
 }
