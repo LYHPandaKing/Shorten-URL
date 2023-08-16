@@ -1,7 +1,6 @@
 {
     "dict": "http://dict.revised.moe.edu.tw/cbdic/search.htm",
     "steam": "https://store.steampowered.com/account/registerkey?key",
-    "free": "https://steamdb.info/upcoming/free/",
     "screenshot": "http://join-screenshots.zhanghai.me/",
     "acg": "https://acgsecrets.hk/bangumi",
     "keybr": "https://www.keybr.com/login/CyaaPBJPiZ",
@@ -22,5 +21,8 @@
     "zlib2": "https://lib-fseafq5cbgvydhitkq7kdzvb.1lib.fr",
     "yoitv": "https://download.yoitv.com/app/ios/yoitv.nvapp",
     "sch": "https://drive.google.com/file/d/1PLBUvdr1aDEPSO791iOKVkEonLGXZ1v5/view?usp=drivesdk",
-    "files": "https://github.com/LYHPandaKing/files"
+    "files": "https://github.com/LYHPandaKing/files",
+    "ia": "https://archive.org/details/@he8072",
+    "dmhy": "https://dmhy.anoneko.com/",
+    "cubus": "https://cu-bus.online/?mode=realtime"
 }
