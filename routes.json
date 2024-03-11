@@ -1,12 +1,10 @@
 {
     "dict": "http://dict.revised.moe.edu.tw/cbdic/search.htm",
     "steam": "https://store.steampowered.com/account/registerkey?key",
-    "screenshot": "http://join-screenshots.zhanghai.me/",
     "acg": "https://acgsecrets.hk/bangumi",
     "font": "https://github.com/Megumi-B/Anime_Font_Library",
     "keybr": "https://www.keybr.com/login/CyaaPBJPiZ",
     "helen": "https://pz.hkt172.net/canrungenerator/",
-    "bw": "https://docs.google.com/spreadsheets/d/1W9_gRPUMlY4wpHd8-nKyTy67EQsEN4JlMU7ToVTkJEc/",
     "bookrec": "https://docs.google.com/spreadsheets/d/1C9GUDt3u_4yVLqeWGE8bsPnv5JvkuDTbXQexlwp3cDs/edit",
     "kobotips": "https://github.com/Megumi-B/Kobo_Tips",
     "kobo99": "https://docs.google.com/spreadsheets/d/1BLLe0KPApm14vXZxkgEILiG4VdKgob7pupO5J8XLxcw/",
@@ -20,7 +18,6 @@
     "files": "https://github.com/LYHPandaKing/files",
     "ia": "https://archive.org/details/@he8072",
     "dmhy": "https://dmhy.anoneko.com/",
-    "cubus": "https://cu-bus.online/?mode=realtime",
     "wclib": "https://wecare.librarika.com/",
     "sr": "https://drive.google.com/drive/folders/1Zc4qsTS-WRboVDDpfe3vgpDqzUZfwsXH?usp=sharing",
     "nas": "https://nas.umis.moe/#/signin",
@@ -33,7 +30,7 @@
     "pkpass": "https://filedn.com/lAIJkrR1ef4bIR1iETG3U3F/pkpass/",
     "booking": "https://rbs.lib.cuhk.edu.hk/Booking/Secure/FacilityStatus.aspx",
     "ppt": "https://docs.google.com/presentation/d/15PcrZITlRywYBqdbBEEEj-KBuoX-Y9W2fi-nnlBBBQg/edit",
-    "meal": "https://docs.google.com/spreadsheets/d/1-Q71g9ypuUslNlzXG6mnEwQHHaPX1nyKs6idGdLRwMo/edit",
+    "work": "https://docs.google.com/spreadsheets/d/16MqhoOr6LrLHTBsDmmIyVRF_IrsoIGXeSpY6Iwl7utc/edit",
     "album": "https://bendodson.com/projects/itunes-artwork-finder/",
     "hist": "https://gist.github.com/LYHPandaKing/e704eee488a5c30f4a2c0a499436ea9b"
 }
